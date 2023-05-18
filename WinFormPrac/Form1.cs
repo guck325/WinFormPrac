@@ -19,6 +19,11 @@ namespace WinFormPrac
 
         private void label1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("슬프다");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }
